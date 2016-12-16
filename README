@@ -1,0 +1,38 @@
+## Simon Says Verilog README.
+
+We made a simon says game in verilog. The logic behind it involves
+matching the randomly chosen square with the corresponding input, and
+making the level more difficult and giving points accordingly. It
+involves a keyboard and a VGA display.
+
+## Getting Started
+
+Create a Quartus Project with the name ECE2220 so it compiles. Then, put this verilog file in the project folder or copy into the main verilog file.
+
+## Prerequisites
+
+Quartus is free so you don't have to do anything to be able to access it. You do need an FPGA, though, and a monitor to fully utilize this program.
+
+## Deployment
+
+You will need to use an FPGA and a monitor to completely run this program. The pin assignments should be pretty standard due to the nature of the program.
+
+## Built With
+
+Quartus.
+
+## Authors
+
+Anthony Roberto
+Maggie Mize
+
+## Acknowledgments
+
+* Keely Edwards
+* Bradon Hill
+* The author of this README template: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+* Anyone in our ECE 287 class who helped
+
+## Youtube video demo
+
+https://www.youtube.com/watch?v=b-0q34-UIvc
